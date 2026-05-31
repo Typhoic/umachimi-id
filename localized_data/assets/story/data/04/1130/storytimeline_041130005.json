@@ -55,7 +55,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Ambo kadang mampir ke taman bunga ini. \nPemandangannya rancak bana kalau bunganya lagi mekar semua.",
+            "text": "Ambo kadang mampir ke taman bunga ini. \nPemandangannya rancak bana (bagus sekali)\nkalau bunganya lagi mekar semua.",
             "choice_data_list": [
                 "<size=36>Bikin aku pengen TANCAP KELOPAK GASPOL!</size>",
                 "<size=36>Bikin aku pengen TANCAP KELOPAK GASPOL!</size>"
@@ -63,7 +63,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "——Apo? \n…Ya sudahlah, bagus kalau Pelatih suka. Ngomong-ngomong… \nAda tempat yang nio Pelatih kunjungi lagi?"
+            "text": "——Eh? …Ya sudahlah, bagus kalau Trainer-san suka. \nNgomong-ngomong… Ada tempat yang nio Pelatih kunjungi lagi?"
         },
         {
             "name": "Lucky Lilac",
@@ -77,14 +77,14 @@
             "name": "Lucky Lilac",
             "text": "Hah?",
             "choice_data_list": [
-                "\"Terimalah seluruh pesonaku♡\""
+                "\"Terimalah seluruh pesonaku♡\" <size=30>[Lagu Menishuki]</size>"
             ]
         },
         {
             "name": "Lucky Lilac",
             "text": "……………… \n——Ondeh mandeh. \nTernyata Pelatih jago juga narinya.",
             "choice_data_list": [
-                "\"Makasiii! Kyun ♡\""
+                "\"Makasiii! Kyun ♡\" <size=30>[Tenkyun-kyun!]</size>"
             ]
         },
         {
@@ -93,7 +93,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "\"Master Lawak\" rahasia yang sembunyi di Akademi…? \n…Maaf, apo pulak yang Pelatih——",
+            "text": "\"Master Lawak\" rahasia yang sembunyi di Akademi…? \n…Maaf, apo pulak yang kamu——",
             "choice_data_list": [
                 "Mau daftar jadi muridnya bareng aku, Luck?",
                 "Mau daftar jadi muridnya bareng aku, Luck?"
@@ -144,7 +144,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Trainer beneran nio alih profesi jadi pelawak kah??!! \nIni bukan kerjaanmu tahu ndak!",
+            "text": "Trainer beneran nih alih profesi jadi pelawak kah??!! \nIni bukan kerjaanmu tahu ndak!",
             "choice_data_list": [
                 "(Nah, itu dia reaksi yang kucari-cari!)"
             ]
@@ -167,7 +167,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "………! \n……Ambo hargai niatnya. Batua-batua ambo hargai. Tapi——",
+            "text": "………! ……Ambo hargai niatnya.\nBatua-batua (Sungguh) ambo hargai. Tapi——",
             "choice_data_list": [
                 "<size=36>PELAWAK PALING KONYOL SE-ALAM SEMESTA!</size>"
             ]

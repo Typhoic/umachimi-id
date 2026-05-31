@@ -8,7 +8,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Sip, sekarang kita ada pertunjukan— Hah? Ah!\nKawan den malah duduak di kursi penonton! \nOi upiak, ba'a kok waang duduk di situ sambil tepuk tangan?!",
+            "text": "Sip, sekarang kita ada pertunjukan— Hah? Ah!\nKawan den malah duduk di kursi penonton! \nOi upiak, kenapa duduk di situ sambil tepuk tangan?!",
             "choice_data_list": [
                 "…Siapa, aku? …A-Ada apa?",
                 "…Siapa, aku? …A-Ada apa?"
@@ -23,18 +23,18 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Mundur stek! Jangan asal sebut \"permisi\" terus langsung \nnongol di depan muka! Kajuik awak. Kamu lupa ya? \nTempatmu itu di——"
+            "text": "Kedekatan! Jangan asal sebut \"permisi\" terus langsung \nnongol di depan muka! Terkejut ambo. Kamu lupa ya? \nTempatmu itu di——"
         },
         {
             "name": "Lucky Lilac",
-            "text": "Iya! Sini di kananku! Tuh kan, udah kuduga kamu \nbakal ingat.  …Cuma mastiin aja nih,\nkamu ingat kan kenapa harus  di kananku?",
+            "text": "Iya! Sini di kananku! Tuh kan, udah kuduga kamu \nbakal ingat.  …Cuma mastiin aja nih,\nkamu ingat kan kenapa harus di kananku?",
             "choice_data_list": [
                 "<size=38>Soalnya lebih untung di tikungan kanan!</size>"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Iya, ambil jalur dalam biar bisa nyalip ak—\n…A NGECEK AWAK KO?\nSajak pabilo Trainer-san jadi pelari!?"
+            "text": "Iya, ambil jalur dalam biar bisa nyalip am—\n…YANG BENAR AJA KAMU?\nSejak kapan Trainer-san jadi pelari!?"
         },
         {
             "name": "Lucky Lilac",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "——Sekali lagi… Terima kasih banyak yo sudah menerima ambo hari ini."
+            "text": "——Sekali lagi… Terima kasih banyak \nsudah menerima ambo hari ini."
         },
         {
             "name": "Lucky Lilac",

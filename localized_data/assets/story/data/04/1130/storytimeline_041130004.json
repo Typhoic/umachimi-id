@@ -4,7 +4,7 @@
     "text_block_list": [
         {
             "name": "Lucky Lilac",
-            "text": "Besok bakal jadi balapan terakhir ambo sama Orfe-san…? \nApa maksud kamu, yo?"
+            "text": "\"Besok bakal jadi balapan terakhir ambo sama Orfe-san…?\"\nApa maksud kamu, yo?"
         },
         {
             "name": "Lucky Lilac",
@@ -38,10 +38,10 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "……NGECEK AWAK——",
+            "text": "……APA YANG——",
             "choice_data_list": [
-                "DAH!! OKE, MAJU! LARI!!",
-                "DAH!! OKE, MAJU! LARI!!"
+                "DAH!! SANA, MAJU! LARI!!",
+                "DAH!! SANA, MAJU! LARI!!"
             ]
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(——Saat kamu bertingkah aneh gitu!? Ini kan harusnya momen \npenting ambo! …NAPO PULA WAANG KAYAK MAU DUGEM?\nNYO LAH NGERUSAK SUASANA PULO!)"
+            "text": "(——Saat kamu bertingkah aneh gitu!? Ini kan harusnya momen \npenting ambo! …NAPO PULA KAU KAYAK MAU DUGEM?\nKAU MALAH NGERUSAK SUASANA PULO!)"
         },
         {
             "name": "Lucky Lilac",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(APALAH ANG NIIIIIIII!!!)",
+            "text": "(APALAH ANG <i>(KAU) </i>NIIIIIIII!!!)",
             "choice_data_list": [
                 "<size=36>(…! Itu dia! Akselerasi luar biasa itu!)</size>"
             ]
@@ -129,7 +129,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "<i>Sabar stek lah!?</i>",
+            "text": "<i>Sabar stek (dulu) lah!?</i>",
             "choice_data_list": [
                 "<size=34>Kalau itu bisa bantu kamu lari, aku bakal terus bertingkah konyol!</size>"
             ]
@@ -144,7 +144,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Oke, besok… Kita bakal akhiri pertarungan yang panjang bana ini!"
+            "text": "Oke, besok… Kita bakal akhiri pertarungan yang panjang ini!"
         },
         {
             "name": "Lucky Lilac",
@@ -184,11 +184,11 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(…Plesetan bunganya garing, emang… Tapi abaikan dulu itu. \nApa-apaan coba plesetan yang terakhir tadi? \nMaksud ambo, seriusan, itu ndak masuk akal bana——)"
+            "text": "(…Plesetan bunganya garing, emang… Tapi abaikan dulu itu. \nApa-apaan coba plesetan yang terakhir tadi? \nMaksud ambo, seriusan, itu ndak masuk akal——)"
         },
         {
             "name": "Lucky Lilac",
-            "text": "<i>(BISA GAK BILANG \"KAMU BAKAL MENANG\" AJAAAAAAAAA!!??)</i>"
+            "text": "<i>(BISA GAK BILANG \"KAMU PASTI MENANG\" AJAAAAAAAAA!!??)</i>"
         },
         {
             "name": "Orfevre",
@@ -226,7 +226,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Yaelah, ada yang kepedean nih! …Ehem. Yah, bagaimanapun juga, ambo dapat  pengakuannya karena kamu bantu ambo. Ambo betul-betul \nberterima kasih.",
+            "text": "Yaelah, kepedean nih! …Ehem. Yah, bagaimanapun juga,\nambo\ndapat  pengakuannya karena kamu bantu ambo. Ambo betul-betul \nberterima kasih.",
             "choice_data_list": [
                 "<size=36>Tidak… Ini semua berkat kegigihanmu sendiri.</size>",
                 "<size=36>Tidak… Ini semua berkat kegigihanmu sendiri.</size>"
@@ -269,7 +269,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Iya. ……Tentu aja, maksudnya sebagai Umamusume didikan \nkamu, yo? Tapi, yah…… sesekali main komedi manzai buliah juga sih."
+            "text": "Iya. ……Tentu aja, maksudnya sebagai Umamusume didikan \nkamu, yo? Tapi, yah…… sesekali main komedi manzai\nbuliah (boleh) juga sih."
         },
         {
             "name": "Lucky Lilac",
@@ -284,7 +284,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "KEBANYAKAN LA-NYA! Oke, itu emang kedengaran asik disebutin, \ntetap saja, tolong panggil nama aku yang bener!",
+            "text": "OI, OI, OI! KEBANYAKAN LA-NYA! Oke, itu emang kedengaran asik\ndisebutin, tetap saja, tolong panggil nama aku yang bener!",
             "choice_data_list": [
                 "Ruckey-lyela… Licky Lie…"
             ]
@@ -293,12 +293,12 @@
             "name": "Lucky Lilac",
             "text": "Ambo tahu kamu tahu cara nyebutnya! Emang sih agak \nbikin lidah keseleo, tapi tetap aja! Lagian, kita kan udah sepakat \nkamu panggil ambo pakai nama lain, ingat ndak?",
             "choice_data_list": [
-                "………Rickey? Lucky?"
+                "………Rickey...? Lucky...?"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Dai-Happy☆ NDAK LAH! ……Kan harusnya panggilan\nambo itu 'Luck'! Kalau dipanggil 'Lala', kesannya terlalu imut buat \nukuran tukang mambaleh lawak.",
+            "text": "Dai-Happy☆ NDAK LAH! ……Kan harusnya panggilan\nambo itu 'Luck'! Kalau dipanggil 'Lala', kesannya terlalu\nimut buat ukuran tukang pelawak.",
             "choice_data_list": [
                 "<size=42>Maaf, Luck. Tapi aku sudah sadar sekarang.</size>",
                 "<size=42>Maaf, Luck. Tapi aku sudah sadar sekarang.</size>"

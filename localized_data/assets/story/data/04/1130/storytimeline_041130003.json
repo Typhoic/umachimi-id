@@ -12,7 +12,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Kecilin dikit suaranya, bikin malu aja yo! …Tapi kalau \ndipikir-pikir lagi, momen itu yang jadi awal mula kita \nbisa sepaket kayak gini.",
+            "text": "Kecilin dikit suaranya, bikin malu aja! …Tapi kalau \ndipikir-pikir lagi, momen itu yang jadi awal mula kita \nbisa sepaket kayak gini.",
             "choice_data_list": [
                 "Tim Lucky & Lilac!",
                 "Tim Lucky & Lilac!"
@@ -36,7 +36,7 @@
         },
         {
             "name": "Calstone Light O",
-            "text": "Kenapa!? Kok bisa!? Kenapa semua meja ini bundar…!? Oke \ncukup sudah aku akan memotongnya biar jadi rapi dan \nlurus. Jangan coba hentikan aku, karena aku akan tetap melakukannya!"
+            "text": "Kenapa!? Kok bisa!? Kenapa semua meja ini bundar…!? \nPokoknya mau kupotong biar lurus dan rapi. Jangan\nhalangi aku, keputusanku udah bulat!"
         },
         {
             "name": "Gold Ship",
@@ -44,11 +44,11 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(Semua orang di akademi ini tingkahnya… tingkahnya… Sangat <i>\"menarik\"—— </i>\nBanyak bana bahan lawakan yang berserakan untuk dikomentari!!)"
+            "text": "(Semua orang di akademi ini tingkahnya… tingkahnya… \nSangat <i>\"menarik\"—— </i>Banyak benar bahan lawakan\nyang berserakan untuk dikomentari!!)"
         },
         {
             "name": "Lucky Lilac",
-            "text": "(APA MAKSUDNYA YANG ENAM BELAS MIL ITU?! KENAPA \nURUSANMU URUSAN LURUS AJA?! KAMU NDAK AKAN BISA \nMENEMBUS MANTEL BUMI KALAU GOYANG-GOYANG KAYAK GITUUUUUU!!)"
+            "text": "(APAAN SIH MAKSUDNYA ENAM BELAS MIL ITU?! KOK BISA-BISANYA\nFIKIRANMU LURUS DOANG?! KAGAK BAKALAN TEMBUS ITU MANTEL\nBUMI KALAU GOYANG-GOYANG BEGITUUUUUU!!)"
         },
         {
             "name": "Lucky Lilac",
@@ -56,15 +56,15 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(Tapi—— ambo tahan. Ambo jaga diri ambo supaya ndak hancur, setiap \nhari! Ini yang namanya kegigihan! Kegigihan yang mantap bana! \nCukup tahan terus, maka ambo bisa jadi bintang!)"
+            "text": "(Tapi—— ambo harus tahan. Ambo jaga diri ambo supaya ndak hancur,\nsetiap hari! Ini yang namanya kegigihan! Kegigihan yang mantap! \nCukup tahan terus, maka ambo bisa jadi bintang!)"
         },
         {
-            "name": "Young Lala",
+            "name": "Lala Kecil",
             "text": "\"Ahaha, pelawak ini konyol bana! Semuanya jadi lawakan sama dia! \n…Ahahaha! Pantesan aja dia disoraki! Ndak boleh kayak gitu do!\""
         },
         {
-            "name": "Young Lala",
-            "text": "\"Oi mak, pak! Ambo mau juga kipas kertas yang gede itu! \nBoleh lah, yo? Nilai ujian ambo sempurna kan, ingat ndak? \nNdak boleh dapat hadiah kecil kah untuk ambo～?\""
+            "name": "Lala Kecil",
+            "text": "\"Mak, pak! Ambo mau juga kipas kertas yang gede itu! \nBoleh lah! Nilai ujian ambo sempurna kan, ingat ndak? \nNdak boleh dapat hadiah kecil kah untuk ambo～?\""
         },
         {
             "name": "Lucky Lilac",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Begitulah. Ambo mengubah diri ambo. \nMaksud ambo—— \nBintang utama sebuah pertunjukan harus sopan dan anggun, kan?"
+            "text": "Begitulah. Ambo mengubah diri ambo. Maksud ambo——\nBintang utama sebuah pertunjukan harus sopan dan anggun, kan?"
         },
         {
             "name": "Lucky Lilac",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Komedian Muda B",
-            "text": "SAMPAI ZAMAN PURBAKALA~~~~?! Eh, kita terlempar ke masa lalu ya?!\n……Waaa, ada penonton yang pakai baju corak macan tutul!! \nBeneran ternyata~~!!\""
+            "text": "SAMPAI ZAMAN PURBAKALA~~~~?! Eh, kita terlempar ke\nmasa lalu ya?!……Waaa, ada penonton yang pakai baju corak\nmacan tutul!! Beneran ternyata~~!!\""
         },
         {
             "name": "Lucky Lilac",

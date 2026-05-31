@@ -17,7 +17,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Ambo yang makasih karena Pelatih udah nerima. Karena udah diputuskan, \nada satu hal yang nio ambo minta dari Pelatih. \nSoalnya, restoran ini ada aturan berpakaian (dress code)——"
+            "text": "Ambo yang makasih karena Pelatih udah nerima. Karena udah\ndiputuskan, ada satu hal yang nio ambo minta dari Pelatih. \nSoalnya, restoran ini ada aturan berpakaian (dress code)——"
         },
         {
             "name": "Lucky Lilac",
@@ -47,14 +47,14 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "……Pelatih ngerasa agak tegang ya?",
+            "text": "……Kamu ngerasa agak tegang ya?",
             "choice_data_list": [
                 "——!"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Haha, kelihatan jelas di wajah Pelatih. Ini emang tipe tempat \ndi mana selebriti biasa datang... Ndak terlalu familier kan buat kita?",
+            "text": "Haha, kelihatan jelas di wajah kamu. Ini emang tipe tempat \ndi mana selebriti biasa datang... Ndak terlalu familier kan buat kita?",
             "choice_data_list": [
                 "Tapi aku tetap suka kok."
             ]
@@ -65,7 +65,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "——Lamak bana. Apa tadi namanya... \n<i>Poisson à la vapeur</i>? Ini pertama kalinya ambo makan ini. \nAmbo sangat menikmati rasanya yang ringan dan segar.",
+            "text": "——Lamak bana (Enaknya). Apa tadi namanya... \n<i>Poisson à la vapeur</i>? Ini pertama kalinya ambo makan ini. \nAmbo sangat menikmati rasanya yang ringan dan segar.",
             "choice_data_list": [
                 "Saus jeruknya juga enak.",
                 "Saus jeruknya juga enak."
@@ -88,7 +88,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Haha, tenang aja, ambo tahu Pelatih itu selalu serius dalam segala hal. \nDan ambo tahu kata 'segala hal' itu juga termasuk lawakan Pelatih."
+            "text": "Haha, tenang aja, ambo tahu Pelatih itu selalu\nserius dalam segala hal. Dan ambo tahu kata\n'segala hal' itu juga termasuk lawakan Pelatih."
         },
         {
             "name": "Lucky Lilac",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Astaga……! Rancak bana...",
+            "text": "Astaga……! Rancak bana (Indahnya)...",
             "choice_data_list": [
                 "Kayaknya bunganya beneran jadi kembang api...",
                 "Kayaknya bunganya beneran jadi kembang api..."
@@ -242,7 +242,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Kita ndak sadang di pulau aneh-aneh! \nEmang Pelatih lihat ada burung unta di siko?! Yaudah lah, lupain soal \nlatihan kecepatan! Ayo buruan lanjut ke latihan berikutnya!",
+            "text": "Kita ndak sadang di pulau aneh-aneh! \nEmang kamu lihat ada burung unta di siko (sini)?! Yaudah lah, lupain\nsoal latihan kecepatan! Ayo buruan lanjut ke latihan berikutnya!",
             "choice_data_list": [
                 "Beri aku waktu sebentar buat mompa ban raksasanya."
             ]
@@ -256,7 +256,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Kita di siko buat ngelatih <i>ambo,</i> ingat ndak! \nMalah Pelatih yang kehabisan tenaga! Udahlah, gimana kalau kita \nistirahat aja? Ayo kita jalan ke pinggir pantai.",
+            "text": "Kita di siko (sini) buat ngelatih <i>ambo,</i> ingat ndak! \nMalah kamu yang kehabisan tenaga! Udahlah, gimana kalau kita \nistirahat aja? Ayo kita jalan ke pinggir pantai.",
             "choice_data_list": [
                 "Nggak. Kita akan main kuis."
             ]
@@ -270,14 +270,14 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Lho, kok udah kelar!? Kita kan belum latihan apo-apo musim panas ini! \nKita butuh DUA <i>TAHUN</i> kamp musim panas kalau \nnio ngejar ketertinggalan!",
+            "text": "Lho, kok udah kelar!? Kita kan belum latihan apa-apa\nmusim panas ini! Kita butuh DUA <i>TAHUN</i> kamp musim\npanas kalau untuk ngejar ketertinggalan!",
             "choice_data_list": [
                 "Yah, kayaknya itu nggak mungkin deh."
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Oh, BARU SEKARANG Pelatih nio mikir logis! \nUdah ah, ambo nyerah! Sekian pertunjukan dari kami!"
+            "text": "Oh, BARU SEKARANG Pelatih mau mikir logis! \nUdah ah, ambo nyerah! Sekian pertunjukan dari kami!"
         },
         {
             "text": "Kami saling membungkuk untuk menandai akhir pertunjukan kami. \nDan ketika kami mengangkat kepala, kami saling bertatapan. \nImprovisasi kami sangat lucu sehingga kami tak bisa menahan——"
@@ -303,7 +303,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "——Iya, seru bana."
+            "text": "——Iya, seru bana (seru sekali)."
         }
     ]
 }

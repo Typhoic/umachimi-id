@@ -7,7 +7,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Eh, kebetulan bana, Trainer-san. \nSadang apo di siko?",
+            "text": "Eh, kebetulan bana, Trainer-san. \nSedang apa di sini?",
             "choice_data_list": [
                 "Aku lagi mikir mau beli jas baru."
             ]
@@ -21,7 +21,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "……… \nNgomong-ngomong… Boleh ndak ambo bantu pilihkan jas barunya?",
+            "text": "……… Ngomong-ngomong… \nBoleh ndak ambo bantu pilihkan jas barunya?",
             "choice_data_list": [
                 "Oh, kamu jago urusan ginian?"
             ]
@@ -61,11 +61,11 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "(Hmm, mungkin sentuhan warna krem bisa menonjolkan \nsisi cerianya…!? Mari kita lihat, ambo ambil iko, dan iko… \nKita bisa coba dasi ini juga.)"
+            "text": "(Hmm, mungkin sentuhan warna krem bisa menonjolkan \nsisi cerianya…!? Mari kita lihat, ambo ambil ini, dan ini… \nKita bisa coba dasi ini juga.)"
         },
         {
             "name": "Lucky Lilac",
-            "text": "(Hmm, mungkin sentuhan warna krem bisa menonjolkan \nsisi cerianya…!? Mari kita lihat, ambo ambil iko, dan iko… \nKita bisa coba blus ini juga.)"
+            "text": "(Hmm, mungkin sentuhan warna krem bisa menonjolkan \nsisi cerianya…!? Mari kita lihat, ambo ambil ini, dan ini…\nKita bisa coba blus ini juga.)"
         },
         {
             "name": "Lucky Lilac",
@@ -105,18 +105,18 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Mmhmm. Pakaiannya pas, dan ada aura khas \nPelatihnya juga. Ambo rasa rancak bana."
+            "text": "Mmhmm. Pakaiannya pas, dan ada aura khas \nPelatihnya juga. Ambo rasa rancak bana (cukup bagus)."
         },
         {
             "name": "Lucky Lilac",
-            "text": "Oh, nio pakai pin dasi juga? \nAmbo lihat ada yang rancak dipajang di tempat yang kita lewati tadi.",
+            "text": "Oh, nio pakai pin dasi juga? Ambo lihat ada yang rancak \n(bagus) dipajang di tempat yang kita lewati tadi.",
             "choice_data_list": [
                 "Mumpung lagi belanja, boleh deh!"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Oh, nio pakai bros juga? \nAmbo lihat ada yang rancak dipajang di tempat yang kita lewati tadi.",
+            "text": "Oh, nio pakai bros juga? Ambo lihat ada yang\nrancak dipajang di tempat yang kita lewati tadi.",
             "choice_data_list": [
                 "Mumpung lagi belanja, boleh deh!"
             ]
@@ -133,7 +133,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Gimana dengan pin yang iko? \nEmang agak konservatif, tapi tetap cantik——",
+            "text": "Gimana dengan pin yang ini? \nEmang agak konservatif, tapi tetap bagus——",
             "choice_data_list": [
                 "Iya… Cocok banget buat jepit rambut Luck!",
                 "Iya… Cocok buat masuk angin!"
@@ -141,7 +141,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Gimana dengan bros yang iko? \nEmang agak konservatif, tapi tetap cantik——",
+            "text": "Gimana dengan bros yang ini? \nEmang agak konservatif, tapi tetap cantik——",
             "choice_data_list": [
                 "Iya… Cocok banget buat jepit rambut Luck!",
                 "Iya… Cocok buat masuk angin!"
@@ -164,7 +164,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "…Haha, Pelatih jago ngelawak seperti biasa ya? \nAyo lah, kita lihat yang lain aja."
+            "text": "…Haha, kamu jago ngelawak seperti biasa ya? \nAyo lah, kita lihat yang lain aja."
         },
         {
             "text": "Reaksinya kerasa beda dari biasanya. \n……Kayaknya candaanku barusan emang garing banget."
@@ -196,18 +196,18 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Er… Pelatih. \nPelatih tahu kan ndak usah maksain diri buat ngelawak?",
+            "text": "Er… Trainer-san. \nKamu tahu kan ndak usah maksain diri buat ngelawak?",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "Ambo sangaaat paham kalau Pelatih nio bantu lari ambo \ndengan segala cara… Tapi sadar ndak kalau hari ini kita lagi libur."
+            "text": "Ambo sangaaat paham kalau Kamu ini bantu lari ambo \ndengan segala cara… Tapi sadar ndak kalau hari ini kita lagi libur."
         },
         {
             "name": "Lucky Lilac",
-            "text": "Pelatih mau ngelawak atau ndak hari ini, ndak ada \nhubungannya sama latihan.",
+            "text": "Kamu mau ngelawak atau ndak hari ini, ndak ada \nhubungannya sama latihan.",
             "choice_data_list": [
                 "(……Astaga, kalau dipikir-pikir bener juga!)"
             ]

@@ -17,7 +17,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "……Terima kasih… banyak yo. \nAmbo harap… Anda mau balapan dengan ambo lagi minggu depan.",
+            "text": "……Terima kasih… banyak yo. Ambo harap…\nAnda mau balapan dengan ambo lagi minggu depan.",
             "choice_data_list": [
                 "(Dia kalah lagi… Tapi…)"
             ]
@@ -219,7 +219,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "APA PULA ITU!!"
+            "text": "NGECEK AWAK KO!\n<size=12>(APA MAKSUDNYA!)</size>"
         }
     ]
 }
