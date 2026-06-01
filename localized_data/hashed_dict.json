@@ -33,7 +33,7 @@
   "14373320343571537038": "Rekan Latihan",
   "14458123689702219733": "Default",
   "14690330353406626129": "$(nb)Syarat Terpenuhi!",
-  "14993119085630564322": "Pengaturan ini memungkinkan penggunaan Jam Weker\nuntuk mengulang balapan.",
+  "14993119085630564322": "Pengaturan ini akan menggunakan Jam Weker untuk\nmengulang balapan.",
   "15146593910653594635": "Sertakan Spark dari warisan",
   "15340557840059781211": "Balapan Terjadwal",
   "15897939291134846117": "Blkg",
@@ -331,5 +331,8 @@
   "4811625408679705955": "Perolehan warisan tergantung skenario yang dipilih",
   "5452063347276326810": "Di fitur Ambil Sekaligus, pemakaian rental dan uang tidak akan berkurang",
   "12175403109150005714": "Tentang",
-  "15536922961745045097": "Kenangan"
+  "15536922961745045097": "Kenangan",
+  "1847586143302074778": "$(nb)Strategi Latihan Baru 1",
+  "1846629568185720433": "$(nb)Strategi Latihan Baru 2",
+  "5863471932605932872": "Strategi latihan kustom."
 }

@@ -25691,7 +25691,7 @@
     "8066": "$(vo 1)Dengan pergi Liburan, Mood akan meningkat dan energi akan pulih.",
     "8067": "$(vo 1)Jika pergi Liburan ke Kuil, status kondisi buruk karakter mungkin saja bisa disembuhkan?",
     "8068": "$(vo 1)Jika mempererat ikatan dengan Wartawan Otonashi, sesuatu akan terjadi setelah URA Finals.....？",
-    "8069": "$(vo 1)Katanya.... jika tingkat kecocokan pada Umamusume pewaris bagus, maka inspirasi (Spark) mereka akan lebih mudah diwariskan.",
+    "8069": "$(vo 1)Katanya.... jika tingkat kecocokan pada Umamusume pewaris bagus, maka Inspirasi/Spark mereka akan lebih mudah diwariskan.",
     "8070": "$(vo 1)Di dalam Event Kartu Support juga bisa mendapat petunjuk dan Skill langka!?",
     "8071": "$(vo 1)Mading sekolah yang berada di menu \"Beranda\" memuat berbagai informasi yang berkaitan seputar Umamusume.",
     "8072": "$(vo 1)Sprint adalah balapan dengan jarak 1400m atau kurang, sedangkan Mile adalah balapan dengan jarak 1401m hingga 1800m.",
@@ -25699,7 +25699,7 @@
     "8074": "$(vo 1)Akibat hujan atau salju, kondisi lintasan akan memburuk dan menjadi sulit dilewati dengan berdasarkan urutan Padat, Bagus, Berat, Lunak.",
     "8075": "$(vo 1)Kasta/Grade balapan diurutkan berdasarkan dari yang tertinggi mulai dari GⅠ＞GⅡ＞GⅢ＞OP＞Pre-OP.",
     "8076": "$(vo 1)Semakin tinggi Kasta/Grade balapan, maka semakin banyak Umamusume kuat yang akan bersaing.",
-    "8077": "$(vo 1)GⅢ、GⅡ、dan GⅠdisebut sebagai Balapan Bergradasi. Di antara ketiganya, GⅠ adalah balapan dengan kasta tertinggi.",
+    "8077": "$(vo 1)GⅢ、GⅡ、dan GⅠ disebut sebagai Balapan Bergradasi. Di antara ketiganya, GⅠ adalah balapan dengan kasta tertinggi.",
     "8078": "$(vo 1)Spark dari Skill unik milik Umamusume bisa didapat jika karakternya telah mencapai ★3 atau lebih.",
     "8079": "$(vo 1)Lintasan untuk URA Finals akan dipilih berdasarkan kategori lintasan yang paling sering diikuti selama Karir.",
     "8080": "$(vo 1)Triple Crown Senior Musim Semi adalah gelar untuk tiga balapan yaitu Osaka Hai, Tenno Sho (Spring), dan Takarazuka Kinen.",
@@ -42042,7 +42042,8 @@
     "501143726": "Mencoba Mesin Capit!",
     "501143729": "Gagal di Mesin Capit......",
     "501143900": "Perkenalan Diri",
-    "501143901": "Grand Live, Mulai!"
+    "501143901": "Grand Live, Mulai!",
+        "400013027": "Pernyataan Tekad: Sebelum Ekspedisi BC"
   },
   "186": {
     "1": "Raise the lvl of your support cards \\nto get a support bonus!",
@@ -50384,33 +50385,73 @@
     "1006": "Haiseiko's Guidance Priority"
   },
   "388": {
-    "1001": "As long as the Goal Race's fan req. is not met, partake in races that match your Uma's aptitudes.",
-    "1002": "As long as the Goal's fan req. is not met, partake in races that match your Uma's aptitudes.",
-    "1003": "As long as the Goal Race's race req. is not met, partake in races that match your Uma's aptitudes.",
-    "1004": "Partake in races that match your Uma's aptitudes when she has yet to win a race once.",
-    "10001": "As long as the Goal Race's fan req. is not met, partake in races that match your Uma's aptitudes.",
-    "10002": "As long as the Goal's fan req. is not met, partake in races that match your Uma's aptitudes.",
-    "10003": "As long as the Goal Race's race req. is not met, partake in races that match your Uma's aptitudes.",
-    "10004": "Partake in races that match your Uma's aptitudes when she has yet to win a race once."
+    "1001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "1002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "1003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "1004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "10001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "10002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "10003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+    "10004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "2001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "11001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "12001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "13001": "$(scale 80)Jika Fans tidak mencukupi untuk mengikuti balapan target,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "13002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "12002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "11002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "2002": "$(scale 80)Jika target jumlah Fans tidak mencukupi,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "13003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "12003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "11003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "2003": "$(scale 80)Jika hasil dari Balapan Target belum mencapai goal,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "13004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "12004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "11004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat.",
+        "2004": "$(scale 80)Jika belum pernah menang balapan dan berstatus maiden,\notomatis akan ikut serta balapan yang sesuai dengan bakat."
   },
   "390": {
-    "10001": "Darley Arabian's Teachings",
-    "10002": "Godolphin Barb's Teachings",
-    "10003": "Byerley Turk's Teachings",
-    "100001": "Darley Arabian's Teachings",
-    "100002": "Godolphin Barb's Teachings",
-    "100003": "Byerley Turk's Teachings"
+    "10001": "Bimbingan Darley Arabian",
+    "10002": "Bimbingan Godolphin Barb",
+    "10003": "Bimbingan Byerley Turk",
+    "100001": "Bimbingan Darley Arabian",
+    "100002": "Bimbingan Godolphin Barb",
+    "100003": "Bimbingan Byerley Turk",
+        "110001": "Bimbingan Darley Arabian",
+        "120001": "Bimbingan Darley Arabian",
+        "130001": "Bimbingan Darley Arabian",
+        "110002": "Bimbingan Godolphin Barb",
+        "120002": "Bimbingan Godolphin Barb",
+        "130002": "Bimbingan Godolphin Barb",
+        "110003": "Bimbingan Byerley Turk",
+        "120003": "Bimbingan Byerley Turk",
+        "130003": "Bimbingan Byerley Turk"
   },
   "391": {
-    "10001": "Fairly balanced \\ntraining Strategi.",
-    "10002": "Strategi focused on \\nDapating Skill Hints.",
-    "10003": "Strategi focused on \\nincreasing stats.",
-    "100001": "Fairly balanced \\ntraining Strategi.",
-    "100002": "Strategi focused on \\nDapating Skill Hints.",
-    "100003": "Strategi focused on \\nincreasing stats."
+    "10001": "Strategi latihan\\nyang seimbang.",
+    "10002": "Fokus memperoleh\npetunjuk skill.",
+    "10003": "Fokus menaikkan\nstatistik atribut.",
+    "100001": "Strategi latihan\\nyang seimbang.",
+    "100002": "Fokus memperoleh\npetunjuk skill.",
+    "100003": "Fokus menaikkan\nstatistik atribut.",
+        "110001": "Strategi latihan\\nyang seimbang.",
+        "120001": "Strategi latihan\\nyang seimbang.",
+        "130001": "Strategi latihan\\nyang seimbang.",
+        "110002": "Fokus memperoleh\npetunjuk skill.",
+        "120002": "Fokus memperoleh\npetunjuk skill.",
+        "130002": "Fokus memperoleh\npetunjuk skill.",
+        "110003": "Fokus menaikkan\nstatistik atribut.",
+        "120003": "Fokus menaikkan\nstatistik atribut.",
+        "130003": "Fokus menaikkan\nstatistik atribut."
   },
   "392": {
-    "100005": "When receiving knowledge, pause \\nuntil you choose one."
+    "100005": "When receiving knowledge, pause \\nuntil you choose one.",
+        "10005": "Jeda saat terjadi pewarisan inspirasi/spark.",
+        "100009": "Jeda saat terjadi pewarisan inspirasi/spark.",
+        "110008": "Jeda saat terjadi pewarisan inspirasi/spark.",
+        "120006": "Jeda saat terjadi pewarisan inspirasi/spark.",
+        "130006": "Jeda saat terjadi pewarisan inspirasi/spark.",
+        "130005": "Jeda otomatis saat Rapat Strategi, lalu pilih\nmanual parameter untuk dinaikkan levelnya."
   },
   "394": {
     "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -50619,16 +50660,16 @@
     "6": "Mata Air Legendaris & No.⑤ digali"
   },
   "410": {
-    "10001": "Don't retry races requiring unsuitable aptitudes",
-    "10002": "Don't retry races below G1",
-    "100001": "Don't retry races requiring unsuitable aptitudes",
-    "100002": "Don't retry races below G1",
-    "110001": "Don't retry races requiring unsuitable aptitudes",
-    "110002": "Don't retry races below G1",
-    "120001": "Don't retry races requiring unsuitable aptitudes",
-    "120002": "Don't retry races below G1",
-    "130001": "Don't retry races requiring unsuitable aptitudes",
-    "130002": "Don't retry races below G1"
+    "10001": "Jangan ulangi balapan jika bakat tidak cocok.",
+    "10002": "Jangan ulangi balapan untuk GⅡ ke bawah.",
+    "100001": "Jangan ulangi balapan jika bakat tidak cocok.",
+    "100002": "Jangan ulangi balapan untuk GⅡ ke bawah.",
+    "110001": "Jangan ulangi balapan jika bakat tidak cocok.",
+    "110002": "Jangan ulangi balapan untuk GⅡ ke bawah.",
+    "120001": "Jangan ulangi balapan jika bakat tidak cocok.",
+    "120002": "Jangan ulangi balapan untuk GⅡ ke bawah.",
+        "130001": "Jangan ulangi balapan jika bakat tidak cocok.",
+        "130002": "Jangan ulangi balapan untuk GⅡ ke bawah."
   },
   "411": {
     "1": "Unset",
@@ -50983,5 +51024,8 @@
     "3": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
     "4": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
     "5": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)"
-  }
+  },
+    "389": {
+        "13101": "Event \"Pernyataan Tekad: Sebelum Ekspedisi BC\""
+    }
 }
