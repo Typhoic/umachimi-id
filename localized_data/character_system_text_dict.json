@@ -216,7 +216,9 @@
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
-        "140002": "Aah!"
+        "140002": "Aah!",
+        "20021": "Aku ingin berlari, tapi aku tidak bisa memaksakan diri sampai merusak tubuhku... Sulit ya.",
+        "20022": "Aku ingin ikut balapan, tapi... lebih dari ini sudah... tubuhku..."
     },
     "1003": {
         "11": "Cygames",
@@ -3367,5 +3369,13 @@
     "1115": {
         "20022": "…Tidak perlu lagi bicara denganmu.",
         "20021": "Kepala sok pintarmu itu... untuk apa kau bawa-bawa?"
+    },
+    "1073": {
+        "20022": "A, aku ingin berusaha... tapi, badan terasa sempoyongan, kepala terasa berat banget...",
+        "20021": " Balapan ya, aku akan beru— Ukhk...! ...ugh, aku akan berusaha menjaga kondisi...!"
+    },
+    "1129": {
+        "20021": "Kamu benar-benar yakin itu yang harus dilakukan?\nKalau begitu, jelaskan alasannya. Mari kita\nselaraskan pendapat kita baik-baik.",
+        "20022": "……Aku tidak setuju. Kalau terus\nmemaksakan cara yang gegabah seperti itu,\npasti akan ada batasnya. Aku tidak mau begitu.――Tidak mau, sama sekali."
     }
 }
